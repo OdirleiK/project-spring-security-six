@@ -25,3 +25,7 @@ target/
 
 # Logs
 *.log
+
+# Chaves de aplicação (adicionadas)
+app.pub
+app.key
